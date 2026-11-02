@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ```mermaid
-graph TD
+graph LR
     %% Styling
     classDef internet fill:#f9f,stroke:#333,stroke-width:2px;
     classDef security fill:#f96,stroke:#333,stroke-width:2px;
