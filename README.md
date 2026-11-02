@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-```maermaid
+```mermaid
 graphTD
     %% Styling
     classDef internet fill:#f9f,stroke:#333,stroke-width:2px;
